@@ -29,6 +29,21 @@
             ],
             "repo": "https://github.com/deeadly137/plugin-livewallpaper.git",
             "image": ""
+        },
+        {
+            "id": "deeadly137/nebulaclock",
+            "name": "Nebula Clock",
+            "author": "deeadly137",
+            "version": "0.1.0",
+            "description": "A configurable analog desktop clock with Material shapes, ticks, dates, and draggable positioning.",
+            "tags": [
+                "desktop",
+                "widget",
+                "clock",
+                "analog"
+            ],
+            "repo": "https://github.com/deeadly137/plugin-nebula-clock.git",
+            "image": ""
         }
     ]
 }
