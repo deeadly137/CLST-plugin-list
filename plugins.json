@@ -5,12 +5,13 @@
             "id": "deeadly137/desktoppet",
             "name": "Desktop Pet",
             "author": "deeadly137",
-            "version": "0.1.0",
-            "description": "A draggable desktop pet that demonstrates the desktop-widget entry point.",
+            "version": "0.2.0",
+            "description": "A Shimeji desktop pet that walks, climbs, falls, and can be dragged around the screen.",
             "tags": [
                 "desktop",
                 "widget",
-                "demo"
+                "pet",
+                "shimeji"
             ],
             "repo": "https://github.com/deeadly137/plugin-desktop-pet.git",
             "image": ""
@@ -19,13 +20,13 @@
             "id": "deeadly137/livewall",
             "name": "Live Wallpaper",
             "author": "deeadly137",
-            "version": "0.1.0",
-            "description": "A video or animated-image wallpaper rendered as a desktop widget.",
+            "version": "0.2.0",
+            "description": "Video and animated-image wallpapers with controls in Wallpaper & style.",
             "tags": [
                 "wallpaper",
                 "video",
                 "gif",
-                "demo"
+                "wallpaper-style"
             ],
             "repo": "https://github.com/deeadly137/plugin-livewallpaper.git",
             "image": ""
