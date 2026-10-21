@@ -43,7 +43,7 @@
                 "analog"
             ],
             "repo": "https://github.com/deeadly137/plugin-nebula-clock.git",
-            "image": ""
+            "image": "https://raw.githubusercontent.com/deeadly137/plugin-nebula-clock/main/preview.png"
         }
     ]
 }
