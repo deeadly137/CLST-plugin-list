@@ -8,6 +8,11 @@ The browser fetches:
 https://raw.githubusercontent.com/deeadly137/CLST-plugin-list/main/plugins.json
 ```
 
+## Current plugins
+
+- [plugin-desktop-pet](https://github.com/deeadly137/plugin-desktop-pet)
+- [plugin-livewallpaper](https://github.com/deeadly137/plugin-livewallpaper)
+
 ## Format
 
 `plugins.json` contains a single `plugins` array. Each entry has:
