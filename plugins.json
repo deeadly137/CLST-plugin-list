@@ -1,50 +1,17 @@
 {
-    "schema": 1,
+    "schema": 2,
     "plugins": [
         {
             "id": "deeadly137/desktoppet",
-            "name": "Desktop Pet",
-            "author": "deeadly137",
-            "version": "0.2.0",
-            "description": "A Shimeji desktop pet that walks, climbs, falls, and can be dragged around the screen.",
-            "tags": [
-                "desktop",
-                "widget",
-                "pet",
-                "shimeji"
-            ],
-            "repo": "https://github.com/deeadly137/plugin-desktop-pet.git",
-            "image": ""
+            "repo": "https://github.com/deeadly137/plugin-desktop-pet.git"
         },
         {
             "id": "deeadly137/livewall",
-            "name": "Live Wallpaper",
-            "author": "deeadly137",
-            "version": "0.2.0",
-            "description": "Video and animated-image wallpapers with controls in Wallpaper & style.",
-            "tags": [
-                "wallpaper",
-                "video",
-                "gif",
-                "wallpaper-style"
-            ],
-            "repo": "https://github.com/deeadly137/plugin-livewallpaper.git",
-            "image": ""
+            "repo": "https://github.com/deeadly137/plugin-livewallpaper.git"
         },
         {
             "id": "deeadly137/nebulaclock",
-            "name": "Nebula Clock",
-            "author": "deeadly137",
-            "version": "0.1.0",
-            "description": "A configurable analog desktop clock with Material shapes, ticks, dates, and draggable positioning.",
-            "tags": [
-                "desktop",
-                "widget",
-                "clock",
-                "analog"
-            ],
-            "repo": "https://github.com/deeadly137/plugin-nebula-clock.git",
-            "image": "https://raw.githubusercontent.com/deeadly137/plugin-nebula-clock/main/preview.png"
+            "repo": "https://github.com/deeadly137/plugin-nebula-clock.git"
         }
     ]
 }
