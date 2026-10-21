@@ -1,0 +1,27 @@
+{
+    "schema": 1,
+    "plugins": [
+        {
+            "id": "deeadly137/desktoppet",
+            "name": "Desktop Pet",
+            "author": "deeadly137",
+            "version": "0.1.0",
+            "description": "A draggable desktop pet that demonstrates the desktop-widget entry point.",
+            "tags": ["desktop", "widget", "demo"],
+            "repo": "https://github.com/deeadly137/caelestia-plugins.git",
+            "path": "examples/plugins/desktoppet",
+            "image": ""
+        },
+        {
+            "id": "deeadly137/livewall",
+            "name": "Live Wallpaper",
+            "author": "deeadly137",
+            "version": "0.1.0",
+            "description": "A video or animated-image wallpaper rendered as a desktop widget.",
+            "tags": ["wallpaper", "video", "gif", "demo"],
+            "repo": "https://github.com/deeadly137/caelestia-plugins.git",
+            "path": "examples/plugins/livewall",
+            "image": ""
+        }
+    ]
+}
