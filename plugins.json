@@ -10,8 +10,8 @@
             "repo": "https://github.com/deeadly137/plugin-livewallpaper.git"
         },
         {
-            "id": "deeadly137/nebulaclock",
-            "repo": "https://github.com/deeadly137/plugin-nebula-clock.git"
+            "id": "deeadly137/nebulawidgets",
+            "repo": "https://github.com/deeadly137/plugin-nebula-widgets.git"
         }
     ]
 }

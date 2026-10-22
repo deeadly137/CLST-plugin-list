@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/deeadly137/CLST-plugin-list/main/plugins.json
 
 - [plugin-desktop-pet](https://github.com/deeadly137/plugin-desktop-pet)
 - [plugin-livewallpaper](https://github.com/deeadly137/plugin-livewallpaper)
-- [plugin-nebula-clock](https://github.com/deeadly137/plugin-nebula-clock)
+- [plugin-nebula-widgets](https://github.com/deeadly137/plugin-nebula-widgets)
 
 ## Format
 
