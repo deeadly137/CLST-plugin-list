@@ -12,6 +12,10 @@
         {
             "id": "deeadly137/nebulawidgets",
             "repo": "https://github.com/deeadly137/plugin-nebula-widgets.git"
+        },
+        {
+            "id": "deeadly137/wallhaven",
+            "repo": "https://github.com/deeadly137/plugin-wallhaven.git"
         }
     ]
 }
