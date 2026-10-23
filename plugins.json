@@ -2,6 +2,10 @@
     "schema": 2,
     "plugins": [
         {
+            "id": "deeadly137/desktoplyrics",
+            "repo": "https://github.com/deeadly137/plugin-desktop-lyrics.git"
+        },
+        {
             "id": "deeadly137/desktoppet",
             "repo": "https://github.com/deeadly137/plugin-desktop-pet.git"
         },
